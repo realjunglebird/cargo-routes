@@ -1,7 +1,0 @@
-{
-  "package_name": "my_crate",
-  "repository": "https://github.com/user/my_crate.git",
-  "test_repo_mode": "remote",
-  "output_filename": "deps_graph.png",
-  "ascii_tree_mode": true
-}

@@ -1,8 +1,9 @@
 {
-  "package_name": "indexmap",
+  "name": "indexmap",
   "repository": "https://github.com/indexmap-rs/indexmap.git",
   "test_repo_mode": "remote",
-  "version": "main",
+  "version": "2.12.0",
   "output_filename": "deps_graph.png",
-  "ascii_tree_mode": true
+  "ascii_tree_mode": true,
+  "max_depth": 2
 }

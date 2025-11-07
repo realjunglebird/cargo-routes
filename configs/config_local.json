@@ -1,8 +1,0 @@
-{
-  "package_name": "hashbrown",
-  "repository": "/Users/mac/Documents/STUDY/Конфиг/test_repos/hashbrown",
-  "test_repo_mode": "local",
-  "version": "master",
-  "output_filename": "deps_graph.png",
-  "ascii_tree_mode": true
-}

@@ -1,0 +1,9 @@
+{
+  "name": "A",
+  "repository": "/Users/mac/Documents/STUDY/Конфиг/test_repos/graph.txt",
+  "test_repo_mode": "test",
+  "version": "1.0",
+  "output_filename": "deps_graph.png",
+  "ascii_tree_mode": true,
+  "max_depth": 10
+}
